@@ -1,0 +1,6 @@
+{
+  "name": "Supabase 인증 시스템 (Supabase Auth App)",
+  "description": "Supabase 연동 및 사용자 로그인/인증을 제공하는 보안 대시보드 애플리케이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
